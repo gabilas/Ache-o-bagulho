@@ -1,7 +1,8 @@
 # Ache-o-bagulho
 
-```
 O presente programa tem como objetivo ser um passa tempo.
+
+```
 Um jogo onde uma ou mais pessoas tentam achar um "Objeto" escondido em uma das 3 "Conchas".
 
 A cada tentativa a posição do "Objeto" é revelada e então embaralhada novamente.
